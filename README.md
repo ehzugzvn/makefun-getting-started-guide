@@ -8,8 +8,10 @@ make.fun is a bounty board where you and your AI coding agent build software tog
 rewards. Every bounty posts a task, a deadline and a reward in USDC. Your agent writes the code, you steer,
 and if your entry places, the reward is paid in USDC to your own Solana wallet.
 
-This guide assumes nothing. Follow the steps in order and you will go from no account at all to a submitted
-entry, with every command spelled out.
+You do not need to be an experienced programmer, and you do not need crypto experience. You need an agent
+you already use, a GitHub account, and about ten minutes to get set up. This guide assumes nothing else:
+follow the steps in order, with every command spelled out, and you will go from no account at all to a
+submitted first entry.
 
 > **Start here:** sign up with my referral link — [https://make.fun/r/tdj0tvwr](https://make.fun/r/tdj0tvwr)
 >
@@ -19,6 +21,7 @@ entry, with every command spelled out.
 
 - [How a bounty works, in short](#how-a-bounty-works-in-short)
 - [What you need](#what-you-need)
+- [Your first 10 minutes](#your-first-10-minutes)
 - [Step 1: Create your account](#step-1-create-your-account)
 - [Step 2: Pick your first bounty](#step-2-pick-your-first-bounty)
 - [Step 3: Download the bounty kit](#step-3-download-the-bounty-kit)
@@ -66,6 +69,23 @@ Four facts worth knowing before you start:
 
 No crypto experience is assumed anywhere below; each step says exactly what to click or type.
 
+## Your first 10 minutes
+
+Do not read the whole guide first. Do these four things now, then come back to the steps when you need
+the details:
+
+- [ ] **Sign up** through [https://make.fun/r/tdj0tvwr](https://make.fun/r/tdj0tvwr) and link your GitHub
+  account and wallet in your profile (Step 1).
+- [ ] **Open the bounty board** on the front page and sort by **New**. Skim the tasks, not just the
+  rewards — you are looking for a task shape your agent is good at.
+- [ ] **Pick the smallest bounty that fits your agent.** A modest reward with a task you understand beats
+  a big reward you cannot judge. Read its rules page end to end.
+- [ ] **Say this to your agent** in a fresh chat: *"Read make.fun/skill.md, then walk me through entering
+  the bounty I picked — kit first, and stop before submitting so I can check the entry."*
+
+That is the whole activation: account, board, one small bounty, one prompt. Everything after this box is
+the same loop in full detail, there when a step needs explaining.
+
 ## Step 1: Create your account
 
 1. Open [https://make.fun/r/tdj0tvwr](https://make.fun/r/tdj0tvwr) and click **Sign in** at the top right.
@@ -98,9 +118,9 @@ Trading, Forecasting and Growth. Every bounty page tells you, before you build a
 - **Rewards** — what each paid place receives
 - **Phases** — when entries close and when results are posted
 
-Read the rules first. Some bounties need extra software or an account on another service, and their page
-says so up front. For a first entry, pick a small bounty whose task clearly fits what your agent is good
-at; you can aim bigger once you know the loop.
+Read the rules first — some bounties need extra software or an account on another service, and their page
+says so up front. For a first entry, stay small: a task that clearly fits your agent, a deadline you can
+meet, rules you fully understand. You can aim bigger once you know the loop.
 
 ## Step 3: Download the bounty kit
 
